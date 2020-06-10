@@ -18,3 +18,4 @@ installed. Please run this script before trying any of the
 examples or attempting the exercises.
 
 It's asking me to make a change!
+Trying this once more. 
